@@ -1,0 +1,6 @@
+Flask
+SpeechRecognition
+pyttsx3
+PyAudio
+pyautogui
+pyjokes
